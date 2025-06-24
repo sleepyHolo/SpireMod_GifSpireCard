@@ -1,0 +1,14 @@
+{
+  "modid": "GifSpireCard",
+  "name": "GifSpireCard",
+  "author_list": ["__name__"],
+  "description": "Make basemod.abstracts.CustomCard support .gif files as imgUrl by patching it. For modders, just sideload this mod and replace your original .png files with .gif files. \nMore infomation can be found in https://github.com/sleepyHolo/SpireMod_GifSpireCard/wiki. \n\nThis mod override Ironclad's card images with cat gifs. (Would never load if sideloaded)",
+  "version": "0.1.0",
+  "sts_version": "12-18-2022",
+  "mts_version": "3.30.0",
+  "dependencies": ["basemod"],
+  "optional_dependencies": [""],
+  "credits": "",
+  "update_json": ""
+}
+
