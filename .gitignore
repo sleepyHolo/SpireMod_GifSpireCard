@@ -3,6 +3,11 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+tool/__pycache__
+tool/*.py
+!tool/pillow_gif_fix.py
+!tool/gif_builder.py
+tool/*.zip
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
