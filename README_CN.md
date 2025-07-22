@@ -7,8 +7,7 @@
         <img alt="language" src="https://img.shields.io/github/languages/top/sleepyHolo/SpireMod_GifSpireCard">
     </a>
     <a href="https://github.com/sleepyHolo/SpireMod_GifSpireCard/blob/main/LICENSE">
-        <img alt="license" src="https://img.shields.io/github/license/sleepyHolo/SpireMod_GifSpireCard
-        ">
+        <img alt="license" src="https://img.shields.io/github/license/sleepyHolo/SpireMod_GifSpireCard">
     </a>
     <a href="https://github.com/RichardLitt/standard-readme">
         <img alt="standard-readme" src="https://img.shields.io/badge/readme%20style-standard-brightgreen">
