@@ -14,7 +14,7 @@ public class Disarm extends CustomCard {
     private static final CardStrings cardStrings = CardCrawlGame.languagePack.getCardStrings(ID);
 
     public Disarm() {
-        super("ID", cardStrings.NAME, "GSCResources/red/disarm.gif", 1, cardStrings.DESCRIPTION,
+        super(ID, cardStrings.NAME, "GSCResources/red/disarm.gif", 1, cardStrings.DESCRIPTION,
                 CardType.SKILL, CardColor.RED, CardRarity.UNCOMMON, CardTarget.ENEMY);
         this.baseMagicNumber = 2;
         this.magicNumber = this.baseMagicNumber;
