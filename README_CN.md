@@ -3,7 +3,7 @@
     <p>GifSpireCard</p>
 </h1>
 <p align="center">
-    <a>
+    <a href="https://github.com/sleepyHolo/SpireMod_GifSpireCard/search?l=java">
         <img alt="language" src="https://img.shields.io/github/languages/top/sleepyHolo/SpireMod_GifSpireCard">
     </a>
     <a href="https://github.com/sleepyHolo/SpireMod_GifSpireCard/blob/main/LICENSE">
@@ -60,7 +60,9 @@ GifSpireCard 最开始起源于一张 _杀戮尖塔_ 梗图，其将 _扫腿_ �
     （在您启动 _杀戮尖塔_ 前， Steam 会自行为您安排此模组的安装）
 
 ## 使用
-此项目可作为工具模组用于 _杀戮尖塔_ 。通过旁加载 GSC ，`basemod.abstracts.CustomCard` 将允许您使用 GIF 文件作为卡面。[Wiki - Sideload GSC](https://github.com/sleepyHolo/SpireMod_GifSpireCard/wiki/Sideload-GSC) 可能对您有所帮助。
+此项目可作为工具模组用于 _杀戮尖塔_ 。通过旁加载 GSC ，`basemod.abstracts.CustomCard` 将允许您使用 GIF 文件作为卡面。[Wiki - Sideload GSC](https://github.com/sleepyHolo/SpireMod_GifSpireCard/wiki/Sideload-GSC) 可能对您有所帮助。  
+  
+您可以利用 `gif_builder.py` 创建适合用作 _杀戮尖塔_ 卡面的 GIF 文件。[Wiki - gif_builder.py Documentation](https://github.com/sleepyHolo/SpireMod_GifSpireCard/wiki/gif_builder.py-Documentation) 可能对您有所帮助。 
 
 ## GIF来源
 如无特别说明，所有 GIF 文件均来自 [GIPHY](https://giphy.com/) 。  

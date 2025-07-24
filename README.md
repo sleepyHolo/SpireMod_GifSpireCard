@@ -3,7 +3,7 @@
     <p>GifSpireCard</p>
 </h1>
 <p align="center">
-    <a>
+    <a href="https://github.com/sleepyHolo/SpireMod_GifSpireCard/search?l=java">
         <img alt="language" src="https://img.shields.io/github/languages/top/sleepyHolo/SpireMod_GifSpireCard">
     </a>
     <a href="https://github.com/sleepyHolo/SpireMod_GifSpireCard/blob/main/LICENSE">
@@ -60,7 +60,9 @@ This project uses **Maven** to build. You can modify `pom.xml` to point to your 
     (Steam will install GifSpireCard before running _Slay the Spire_)
 
 ## Usage
-This project can be used as a tool mod for _Slay the Spire_. GIF files can be given as imgUrl for `basemod.abstracts.CustomCard` via sideloading GSC. [Wiki - Sideload GSC](https://github.com/sleepyHolo/SpireMod_GifSpireCard/wiki/Sideload-GSC) may help.
+This project can be used as a tool mod for _Slay the Spire_. GIF files can be given as imgUrl for `basemod.abstracts.CustomCard` via sideloading GSC. [Wiki - Sideload GSC](https://github.com/sleepyHolo/SpireMod_GifSpireCard/wiki/Sideload-GSC) may help.  
+  
+You can create GIFs for _Slay the Spire_ cards with `gif_builder.py`. [Wiki - gif_builder.py Documentation](https://github.com/sleepyHolo/SpireMod_GifSpireCard/wiki/gif_builder.py-Documentation) may help.
 
 ## GIF Source
 Unless otherwise noted, all GIFs are from [GIPHY](https://giphy.com/).  
