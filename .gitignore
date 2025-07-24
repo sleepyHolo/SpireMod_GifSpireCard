@@ -8,6 +8,7 @@ tool/*.py
 !tool/pillow_gif_fix.py
 !tool/gif_builder.py
 tool/*.zip
+tool/*.gif
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
