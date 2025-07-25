@@ -51,12 +51,11 @@ GifSpireCard 最开始起源于一张 _杀戮尖塔_ 梗图，其将 _扫腿_ �
 
 这个项目使用 **Maven** 进行构建。你可以自行修改 `pom.xml` 来定位你的本地依赖包 (`desktop-1.0.jar`，`ModTheSpire.jar` 和 `BaseMod.jar`). [Wiki - Build](https://github.com/sleepyHolo/SpireMod_GifSpireCard/wiki#build) 可能对您有所帮助。 
 ### 安装
-**此仓库对应模组尚未发布。**
 - 通过 GitHub 进行下载。
-    - 下载最新的发布包。
+    - 下载[最新的发布包](https://github.com/sleepyHolo/SpireMod_GifSpireCard/releases/latest)。
     - 将 `GifSpireCard.jar` 移动至 `./mods/`。此路径相对于你的 _杀戮尖塔_ 安装目录。
 - 通过 Steam 创意工坊进行下载。
-    - 在 Steam 创意工坊 订阅 GifSpireCard 。
+    - 在 [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3534165833) 订阅 GifSpireCard 。
     （在您启动 _杀戮尖塔_ 前， Steam 会自行为您安排此模组的安装）
 
 ## 使用

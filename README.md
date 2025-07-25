@@ -51,12 +51,11 @@ You can buy _Slay the Spire_ on Steam or anywhere.
 
 This project uses **Maven** to build. You can modify `pom.xml` to point to your local dependencies (`desktop-1.0.jar`, `ModTheSpire.jar` and `BaseMod.jar`). [Wiki - Build](https://github.com/sleepyHolo/SpireMod_GifSpireCard/wiki#build) may help.
 ### Installation
-**The mod for this repository has not been released yet.**
 - Download from GitHub.
-    - Download the latest Release.
+    - Download the [latest Release](https://github.com/sleepyHolo/SpireMod_GifSpireCard/releases/latest).
     - Move `GifSpireCard.jar` to `./mods/` relative to your _Slay the Spire_ install directory.
 - Download from Steam workshop.
-    - Subscribe GifSpireCard on Steam workshop.
+    - Subscribe GifSpireCard on [Steam workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3534165833).  
     (Steam will install GifSpireCard before running _Slay the Spire_)
 
 ## Usage
